@@ -1,0 +1,34 @@
+IEA: International Energy Agency
+MOS: Monthly Oil Submission (a survey conducted by the IEA to measure the net imports, and stock level) or Monthly Oil Supply
+NGL: Nature Gas Liquids
+LPG: Liquefied Petroleum Gas
+LPGA: Liquefied Petroleum Gas Association
+LPGS: Liquefied Petroleum Gas Supply 
+SOM: System on the international Oil Market (a crude oil import register) 
+COLL: Coastal Oil Logistics Limited
+ALFS: Annual Liquid Fuel Survey
+APEC: Asia Pacific Economic Cooperation
+NZPM: New Zealand Petroleum and Minerals
+DPFI: Delivery of Petroleum Fuels by Industry or Demand for Petroleum Fuel by Industry
+NZRC: NZ Refinery Company
+NZEC: NZ Energy Corporation
+SOTS: Shell Todd Oil Services
+PEFML: Petroleum or Engine Fuels Monitoring Levy
+GD: Gas Distribution
+GT: Gas Transmission
+RBNZ: Reserve Bank of NZ
+ENZ: Energy in NZ (a publication on MBIE web)
+CDS: Convention Delegate Survey
+IVS: International Visitor Survey
+DTS: Domestic Travel Survey
+RVM: Regional Visitor Monitor
+RTE: Regional Tourism Estimate 
+MRTE: Monthly Regional Tourism Estimate
+CAS: Convention Activity Survey
+MBIE: Ministry of Business, Innovation and Employment
+ 
+
+
+
+
+
